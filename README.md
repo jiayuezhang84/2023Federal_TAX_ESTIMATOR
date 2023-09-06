@@ -1,16 +1,14 @@
 # 2023Federal_TAX_ESTIMATOR with Python
 This is 2023 US Federal Tax Estimator. Answering a few questions about your life and income with the tax calculator will answer the questions we all want answers to: How much tax do I need to pay to the IRS?
 
-First, select filing status:![Screenshot 2023-09-05 at 9 56 33 PM]![Screenshot 2023-09-05 at 9 57 52 PM](https://github.com/jiayuezhang84/2023Federal_TAX_ESTIMATOR/assets/58899463/95da3be2-82c2-485b-b6c6-c0db10cd7b4e)
-(https://github.com/jiayuezhang84/2023Federal_TAX_ESTIMATOR/assets/58899463/7566294d-0bd3-42eb-86a6-4a321e2a73be)
+First, select filing status:![Screenshot 2023-09-05 at 9 56 33 PM]![Screenshot 2023-09-05 at 9 57 52 PM]
  - Single
  - Married filing jointly
  - Married filing separately
  - Head of household
 
 Then, input your 2023 estimated incomes. They could be W-2's, 1099's, or both.
-![Screenshot 2023-09-05 at 9 57 05 PM](https://github.com/jiayuezhang84/2023Federal_TAX_ESTIMATOR/assets/58899463/485282ab-d63c-4c80-9cdf-2163f6468761)
-
+![Screenshot 2023-09-05 at 9 57 05 PM]
 You will get an estimated tax you will pay to the IRS. 
 
 Disclaimer:
