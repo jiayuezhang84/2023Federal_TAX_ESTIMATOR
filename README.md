@@ -9,11 +9,6 @@ To obtain an estimated tax to pay to the IRS:
 ![Screenshot 2023-09-05 at 9 57 52 PM](https://github.com/jiayuezhang84/2023Federal_TAX_ESTIMATOR/assets/58899463/051a6d95-a03f-4d73-af42-652799db3d4f)
 ![Screenshot 2023-09-05 at 9 56 33 PM](https://github.com/jiayuezhang84/2023Federal_TAX_ESTIMATOR/assets/58899463/467d4428-35fe-4251-b3db-f148d64acf6e)
 
- - Single
- - Married filing jointly
- - Married filing separately
- - Head of household
-
 2. Input estimated income for 2023 (using W2's and/or 1099's).
 
 ![Screenshot 2023-09-05 at 9 57 05 PM](https://github.com/jiayuezhang84/2023Federal_TAX_ESTIMATOR/assets/58899463/f2c3d65f-fc7c-4dd2-8155-1dae12797044)
